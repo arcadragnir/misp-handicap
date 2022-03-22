@@ -181,7 +181,7 @@
    {
       "meta": {
          
-        "Nom": "Maladies de Parkinson",
+        "Nom": "Maladies de Parkinson"
         
          
           },
@@ -355,6 +355,6 @@
           },
       "uuid": " ",
       "value": " "
-    },
-
+    }
+]
 }

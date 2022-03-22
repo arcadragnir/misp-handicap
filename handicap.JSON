@@ -73,7 +73,7 @@
      {
       "meta": {
          
-        "Nom": "maladies chroniques actives du foie (hépatite B ou C)",
+        "Nom": "Maladies chroniques actives du foie (hépatite B ou C) et cirrhoses",
         "description": "",
         "type": " "
          
@@ -85,7 +85,187 @@
      {
       "meta": {
          
-        "Nom": " ",
+        "Nom": "Déficit immunitaire primitif grave nécessitant un traitement prolongé, infection par le virus de l'immuno-déficience humaine (VIH)",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Diabète de type 1 et diabète de type 2 et d l'adulte ou de l'enfant",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Formes graves des affections neurologiques et musculaires(dont myopathie), epilepsie grave",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Hemoglopathies, hémolyses, chroniques constitutionelles et acquises sévères",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Hémophilies et affections constitutionnelles de l'hémostase graves",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Maladie coronaire : infarctus du myocarde",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Insuffisance respiratoire chronique grave(exemple: asthme grave)",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Maladie d'Alzheimer et autres démences",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Maladies de Parkinson",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Maladie métabolique héréditaire nécessitant un traitement prolongé spécialisé",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Mucovicidose",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Néphropatie chronique grave et syndrome néphrotique primitif(insufficance rénale) ",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Paraplégie",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Vascularites, lupus érythémateux systémique, sclérodermie systémique",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Polyarthrite rhumathoïde évolutive",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Affections psychiatrique de longue durée (exemple: dépression récurrente, troubles bipolaires)",
         "description": "",
         "type": " "
          
@@ -94,5 +274,88 @@
       "value": " "
     },
 
+   {
+      "meta": {
+         
+        "Nom": "Rectolite hémorragique et maladie de Crohn évolutives",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Sclérose en plaques",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Scoliose idiopathique structurale évolutive",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Spondylarthrite grave",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Suite de trabnsplantation d'organe",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Tuberculose active, lèpre",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+   
+   {
+      "meta": {
+         
+        "Nom": "Tumeur maligne(cancer), affection maligne du tissu lymphatique ou hématopoïétique(exemple: lymphome)",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
 
 }

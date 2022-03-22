@@ -182,6 +182,8 @@
       "meta": {
          
         "Nom": "Maladies de Parkinson"
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "non",
+        "Type d'affection": "maladie dégénérative"
         
          
           },
@@ -193,8 +195,8 @@
       "meta": {
          
         "Nom": "Maladie métabolique héréditaire nécessitant un traitement prolongé spécialisé",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "affection de longue durée"
          
           },
       "uuid": " ",
@@ -205,8 +207,8 @@
       "meta": {
          
         "Nom": "Mucovicidose",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "maladie dégénérative"
          
           },
       "uuid": " ",
@@ -217,8 +219,8 @@
       "meta": {
          
         "Nom": "Néphropatie chronique grave et syndrome néphrotique primitif(insufficance rénale) ",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "affection de longue durée"
          
           },
       "uuid": " ",
@@ -241,8 +243,8 @@
       "meta": {
          
         "Nom": "Vascularites, lupus érythémateux systémique, sclérodermie systémique",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "affection de longue durée"
          
           },
       "uuid": " ",
@@ -265,7 +267,7 @@
       "meta": {
          
         "Nom": "Affections psychiatrique de longue durée (exemple: dépression récurrente, troubles bipolaires)",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
         "Type d'affection": "affection de longue durée"
          
           },
@@ -277,8 +279,8 @@
       "meta": {
          
         "Nom": "Rectolite hémorragique et maladie de Crohn évolutives",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "maladie évolutive"
          
           },
       "uuid": " ",
@@ -289,8 +291,8 @@
       "meta": {
          
         "Nom": "Sclérose en plaques",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "maladie dégénérative"
          
           },
       "uuid": " ",
@@ -301,8 +303,8 @@
       "meta": {
          
         "Nom": "Scoliose idiopathique structurale évolutive",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "maladie évolutive "
          
           },
       "uuid": " ",
@@ -313,8 +315,8 @@
       "meta": {
          
         "Nom": "Spondylarthrite grave",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "maladie évolutive"
          
           },
       "uuid": " ",
@@ -325,8 +327,8 @@
       "meta": {
          
         "Nom": "Suite de transplantation d'organe",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "affection de longue durée"
          
           },
       "uuid": " ",
@@ -337,8 +339,8 @@
       "meta": {
          
         "Nom": "Tuberculose active, lèpre",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "affection de longue durée"
          
           },
       "uuid": " ",
@@ -349,8 +351,8 @@
       "meta": {
          
         "Nom": "Tumeur maligne(cancer), affection maligne du tissu lymphatique ou hématopoïétique(exemple: lymphome)",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "possible",
+        "Type d'affection": "affection de longue durée"
          
           },
       "uuid": " ",

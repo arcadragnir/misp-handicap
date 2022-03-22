@@ -4,10 +4,10 @@
     "Cyril BURTIN "
   ],
   "category": "med-bdm-it",
-  "description": "liste des maladies invalidantes reconnues comme handicap",
+  "description": "Liste des maladies invalidantes reconnues comme handicap",
   "name": "med-bdm-it",
   "source": "MDPH /caf",
-  "type": "handicape",
+  "type": "Handicap",
   "uuid": "84310ba3-fa6a-44aa-b378-b9e3271c7777",
   "values": [
     {
@@ -325,7 +325,7 @@
    {
       "meta": {
          
-        "Nom": "Suite de trabnsplantation d'organe",
+        "Nom": "Suite de transplantation d'organe",
         "description": "",
         "type": " "
          

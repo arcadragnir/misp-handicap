@@ -1,0 +1,98 @@
+{
+ "authors": [
+    "Agathe MANGEOT",
+    "Cyril BURTIN "
+  ],
+  "category": "med-bdm-it",
+  "description": "liste des maladies invalidantes reconnues comme handicap",
+  "name": "med-bdm-it",
+  "source": "MDPH /caf",
+  "type": "handicape",
+  "uuid": "84310ba3-fa6a-44aa-b378-b9e3271c7777",
+  "values": [
+    {
+      "meta": {
+         
+        "Nom": "Accident vasculaire cérébral invalidant",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+    
+     {
+      "meta": {
+         
+        "Nom": "Insuffisances médullaires et autres cytopénies chroniques",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+    
+     {
+      "meta": {
+         
+        "Nom": "Artériopathies chroniques avec manisfestations ischémiques",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+    
+     {
+      "meta": {
+         
+        "Nom": " Bilharziose compliquée",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+    
+     {
+      "meta": {
+         
+        "Nom": "Insuffisances cardiaque grave, troubles du rythme graves, cardiopathies valvulaires graves, cardiopathies congénitales graves",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+    
+     {
+      "meta": {
+         
+        "Nom": "maladies chroniques actives du foie (hépatite B ou C)",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+    
+     {
+      "meta": {
+         
+        "Nom": " ",
+        "description": "",
+        "type": " "
+         
+          },
+      "uuid": " ",
+      "value": " "
+    },
+
+
+}

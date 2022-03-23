@@ -18,8 +18,8 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "edbfa998-9ec8-418c-b1c1-3007fd244e16 ",
+      "value": " Accident vasculaire cérébral invalidant"
     },
     
      {
@@ -30,8 +30,8 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": " f666a569-c2a9-42d5-beaa-b8787be0acb5",
+      "value": "Insuffisances médullaire "
     },
     
      {
@@ -39,11 +39,11 @@
          
         "Nom": "Artériopathies chroniques avec manisfestations ischémiques",
         "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Type d'affection": "affection de longue duré"
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "d2e8b63b-df68-4006-98bf-9953cdf276b1",
+      "value": "Artériopathies chroniques "
     },
     
      {
@@ -51,10 +51,10 @@
          
         "Nom": " Bilharziose compliquée",
         "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Type d'affection": "affection de longue duré\" "
          
           },
-      "uuid": " ",
+      "uuid": "1910135a-a28f-4c21-a07a-83ca25ce40e1",
       "value": " "
     },
     
@@ -66,7 +66,7 @@
         "Type d'affection(prothèse, orthèse, pompe à insuline,...)": "affection de "
          
           },
-      "uuid": " ",
+      "uuid": "f5f29cfd-a890-417a-b0ab-b256524db0ae",
       "value": " "
     },
     
@@ -78,7 +78,7 @@
         "Type d'affection": "affection de "
          
           },
-      "uuid": " ",
+      "uuid": "14bfd714-804a-414a-badb-9ea326de62d2 ",
       "value": " "
     },
     
@@ -90,7 +90,7 @@
         "Type d'affection": "affection de "
          
           },
-      "uuid": " ",
+      "uuid": " a988a347-c1db-4d17-a221-ce997dbaf67b",
       "value": " "
     },
    
@@ -98,12 +98,12 @@
       "meta": {
          
         "Nom": "Diabète de type 1 et diabète de type 2 et d l'adulte ou de l'enfant",
-        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Aménagement(prothèse, orthèse, pompe à insuline,...)": "oui",
+        "Type d'affection": "affection de longue duré\" "
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "34ace033-af1e-4d3d-9cd9-5f12b555a32e ",
+      "value": " Dibète "
     },
    
    {
@@ -114,8 +114,8 @@
         "Type d'affection": "affection de "
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "ce6ebe05-893a-4d0a-a366-4bee63fc6ca5",
+      "value": " affections neurologiques et musculaire"
     },
    
    {
@@ -123,11 +123,11 @@
          
         "Nom": "Hemoglopathies, hémolyses, chroniques constitutionelles et acquises sévères",
         "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Type d'affection": "affection de longue durée  "
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "0cd69cd5-3d56-475d-b188-22acc887249e",
+      "value": " Hemoglopathies, hémolyses"
     },
    
    {
@@ -138,8 +138,8 @@
         "Type d'affection": "affection de "
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "4ee033ec-26cb-4315-a80a-f98f3de478b8",
+      "value": "Hémophilies"
     },
    
    {
@@ -147,11 +147,11 @@
          
         "Nom": "Maladie coronaire : infarctus du myocarde",
         "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Type d'affection": "affection de longue durée "
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "9db8ea00-37ce-4c0d-a902-f36124087231",
+      "value": " infarctus du myocarde\""
     },
    
    {
@@ -159,35 +159,35 @@
          
         "Nom": "Insuffisance respiratoire chronique grave(exemple: asthme grave)",
         "Aménagement(prothèse, orthèse, pompe à insuline,...)": "",
-        "Type d'affection": "affection de "
+        "Type d'affection": "affection de longue durée  "
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "8de7bdba-cf58-494e-b596-b66fda2b22ae",
+      "value": "Insuffisance respiratoire"
     },
-   
+
    {
       "meta": {
          
         "Nom": "Maladie d'Alzheimer et autres démences",
         "Aménagement(prothèse, orthèse, pompe à insuline,...)": "non",
-        "Type d'affection": "affection de "
+        "Type d'affection": "affection de  longue durée "
          
           },
-      "uuid": " ",
-      "value": " "
+      "uuid": "80ce126d-692c-45f0-ba06-fded443b93fb",
+      "value": " Maladie d'Alzheimer et autres démences"
     },
-   
+
    {
       "meta": {
          
-        "Nom": "Maladies de Parkinson"
+        "Nom": "Maladies de Parkinson",
         "Aménagement(prothèse, orthèse, pompe à insuline,...)": "non",
         "Type d'affection": "maladie dégénérative"
         
          
           },
-      "uuid": " ",
+      "uuid": "5a2783cb-53e4-451a-9487-e558894bcd13",
       "value": "Parkinson"
     },
    
@@ -199,7 +199,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
+      "uuid": "d1a3b820-0d25-4e5a-9f3a-1471b06856c3",
       "value": "Maladies métabolque héréditaire"
     },
    
@@ -211,7 +211,7 @@
         "Type d'affection": "maladie dégénérative"
          
           },
-      "uuid": " ",
+      "uuid": "54c9d607-f434-416b-acfa-07609fefe8db",
       "value": "Mucovisidose"
     },
    
@@ -223,7 +223,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
+      "uuid": "c5070703-8c73-49b7-a8b7-a8b0e8ee53a6",
       "value": "Néphropatie"
     },
    
@@ -235,7 +235,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
+      "uuid": "9851ce51-b95f-41bf-8e22-2c83751c78ad",
       "value": "Paraplégie"
     },
    
@@ -247,7 +247,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
+      "uuid": "6ff9e37c-04dd-4d9c-ac23-fe23ad9ef581",
       "value": "Vascularites"
     },
    
@@ -259,7 +259,7 @@
         "Type d'affection": "affection évolutive "
          
           },
-      "uuid": " ",
+      "uuid": "6bacef11-be44-42d2-a653-ac5df3aa46ac",
       "value": "Polyarthrite"
     },
    
@@ -271,7 +271,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
+      "uuid": "fbe1be61-bf2b-4547-9c3e-24f9e113537a",
       "value": "Affection Psychiatrique"
     },
 
@@ -283,7 +283,7 @@
         "Type d'affection": "maladie évolutive"
          
           },
-      "uuid": " ",
+      "uuid": "fbb79ba0-08f2-40f4-b562-861edd5b3135",
       "value": "Rectolite"
     },
    
@@ -295,7 +295,7 @@
         "Type d'affection": "maladie dégénérative"
          
           },
-      "uuid": " ",
+      "uuid": "fbb79ba0-08f2-40f4-b562-861edd5b3135",
       "value": "Sclérose en plaque"
     },
    
@@ -307,7 +307,7 @@
         "Type d'affection": "maladie évolutive "
          
           },
-      "uuid": " ",
+      "uuid": "0a97945d-4fc7-4a09-bb73-760891adea52",
       "value": "Scoliose idiopathique"
     },
    
@@ -319,7 +319,7 @@
         "Type d'affection": "maladie évolutive"
          
           },
-      "uuid": " ",
+      "uuid": "7958ba36-084f-4c60-9b5c-1ece7c839734",
       "value": "Spondylarthrite"
     },
    
@@ -331,7 +331,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
+      "uuid": "29fd13a3-4d8b-4e9f-8253-374f8ac07b9c",
       "value": "Transplantation d'organe"
     },
    
@@ -343,7 +343,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
+      "uuid": "211a6aab-415f-4e9d-ad9b-199aca6bd33d",
       "value": "Tuberculose/lèpre"
     },
    
@@ -355,7 +355,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " ",
+      "uuid": "9eb1eacc-3996-4c8b-ad4e-8a4e168c415e",
       "value": "Tumeur maligne"
     }
 ]

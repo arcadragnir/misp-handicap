@@ -18,7 +18,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": "edbfa998-9ec8-418c-b1c1-3007fd244e16 ",
+      "uuid": "edbfa998-9ec8-418c-b1c1-3007fd244e16",
       "value": "Accident vasculaire cérébral invalidant"
     },
     
@@ -30,7 +30,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " f666a569-c2a9-42d5-beaa-b8787be0acb5",
+      "uuid": "f666a569-c2a9-42d5-beaa-b8787be0acb5",
       "value": "Insuffisances médullaire"
     },
     
@@ -78,7 +78,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": "14bfd714-804a-414a-badb-9ea326de62d2 ",
+      "uuid": "14bfd714-804a-414a-badb-9ea326de62d2",
       "value": "Hépatite B ou C"
     },
     
@@ -90,7 +90,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": " a988a347-c1db-4d17-a221-ce997dbaf67b",
+      "uuid": "a988a347-c1db-4d17-a221-ce997dbaf67b",
       "value": "Déficit immunitaire primitif grave"
     },
    
@@ -102,7 +102,7 @@
         "Type d'affection": "affection de longue durée"
          
           },
-      "uuid": "34ace033-af1e-4d3d-9cd9-5f12b555a32e ",
+      "uuid": "34ace033-af1e-4d3d-9cd9-5f12b555a32e",
       "value": "Diabète"
     },
    

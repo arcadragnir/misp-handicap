@@ -5,7 +5,7 @@
   ],
   "category": "med-bdm-it",
   "description": "Liste des maladies invalidantes reconnues comme handicap",
-  "name": "Handi",
+  "name": "Handicap",
   "source": "MDPH /caf",
   "type": "Handicap",
   "uuid": "84310ba3-fa6a-44aa-b378-b9e3271c7777",
@@ -283,7 +283,7 @@
         "Type d'affection": "Maladie évolutive"
          
           },
-      "uuid": "fbb79ba0-08f2-40f4-b562-861edd5b3135",
+      "uuid": "f998cd27-81dc-4c3b-aebf-2504ffc8663c",
       "value": "Rectolite"
     },
    
